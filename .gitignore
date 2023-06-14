@@ -1,0 +1,9 @@
+.DS_STORE
+
+environment/
+
+data/
+!data/.gitkeep
+
+trained_data/
+!trained_data/.gitkeep
